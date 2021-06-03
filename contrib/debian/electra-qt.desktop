@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=nint
+Comment=nint P2P Cryptocurrency
+Comment[fr]=nint, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=nint, eşten eşe kriptografik sanal para birimi
+Exec=nint-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/nint;
+Categories=Office;Finance;

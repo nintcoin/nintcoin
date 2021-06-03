@@ -1,0 +1,11 @@
+[Protocol]
+exec=nint-qt '%u'
+protocol=nint
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
